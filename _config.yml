@@ -1,0 +1,56 @@
+title: Nocturne Writer Documentation
+description: User guide and reference for Nocturne Writer
+url: "https://docs.nocturne-writer.com"
+baseurl: ""
+
+theme: just-the-docs
+
+# Tell Jekyll to look in pages/ for content
+collections_dir: .
+
+# Include the pages directory
+include:
+  - pages
+
+# Exclude files that shouldn't be published
+exclude:
+  - .nocturne/
+  - "User Guide.nocturne"
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - README.md
+
+# Just the Docs configuration
+color_scheme: dark
+
+# Enable search
+search_enabled: true
+search.heading_level: 3
+
+# Navigation
+nav_sort: case_insensitive
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer
+footer_content: "&copy; Ebbesen Systems Inc. All rights reserved."
+
+# Aux links (top right of site)
+aux_links:
+  "Nocturne Writer":
+    - "https://nocturne-writer.com"
+
+aux_links_new_tab: true
+
+# Heading anchor links
+heading_anchors: true
+
+# Default front matter for pages in the pages/ directory
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      layout: default

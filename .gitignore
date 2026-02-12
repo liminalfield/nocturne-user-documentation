@@ -1,0 +1,28 @@
+# Nocturne Writer - Session State
+.nocturne/
+
+# Cache
+.nocturne/cache/
+
+# Scratchpad
+scratchpad/
+
+# Temporary Exports
+.nocturne/exports/
+*.epub
+*.pdf
+*.docx
+
+# Backups
+*.bak
+*.tmp
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
