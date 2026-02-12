@@ -2,7 +2,7 @@
 type: page
 title: Welcome to Nocturne Writer
 dateCreated: 2025-12-15T03:51:26.353Z
-dateUpdated: 2026-02-01T10:24:49.159Z
+dateUpdated: 2026-02-12T11:02:18.163Z
 tags:
   - User Guide
   - Introduction
@@ -83,4 +83,4 @@ It also means:
 
 ## Where to Go Next
 
-If this is your first time opening Nocturne Writer, the best next step is [[pages/in-progress/your-first-hour-with-nocturne-writer|Your First Hour with Nocturne Writer]]. You don’t need to read everything, just enough to get comfortable.
+If this is your first time opening Nocturne Writer, the best next step is [[pages/your-first-hour-with-nocturne-writer|Your First Hour with Nocturne Writer]]. You don’t need to read everything, just enough to get comfortable.
