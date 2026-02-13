@@ -3,7 +3,7 @@ uuid: 81583531-cadd-4e76-bcde-3e46756473fa
 title: About the Beta
 type: page
 dateCreated: 2026-01-14T06:44:31.698Z
-dateUpdated: 2026-02-13T05:35:34.840Z
+dateUpdated: 2026-02-13T05:37:16.185Z
 nav_order: 5
 ---
 # About the Beta
@@ -18,7 +18,7 @@ The purpose of the beta is to confirm that the application performs reliably in 
 
 ## What to expect
 
-Nocturne Writer is a local-first, offline application. There is no account to create, no cloud service to connect to, and no data leaves your machine unless you decide to push your content to a Git remote, like GitHub. Your writing is stored as plain Markdown files on your local filesystem, and you retain full ownership of everything you create.
+Nocturne Writer is a local-first, offline application. There is no account to create, no cloud service to connect to, and no data leaves your machine unless you decide to push your content to a Git remote, like GitHub. Your writing is stored as plain Markdown files on your local filesystem and you retain full ownership of everything you create.
 
 The application works entirely offline. An internet connection is not required at any point.
 
@@ -46,7 +46,7 @@ You don't need to be technical to share useful feedback. A sentence or two descr
 
 Send feedback to: **beta@nocturne-writer.com**
 
-## After the beta
+## After the Beta
 
 Nocturne Writer will be available as a one-time purchase with a perpetual license; there are no subscriptions.
 
