@@ -3,14 +3,14 @@ uuid: 81583531-cadd-4e76-bcde-3e46756473fa
 title: About the Beta
 type: page
 dateCreated: 2026-01-14T06:44:31.698Z
-dateUpdated: 2026-02-13T05:33:16.077Z
+dateUpdated: 2026-02-13T05:35:34.840Z
 nav_order: 5
 ---
 # About the Beta
 
 Nocturne Writer is currently in beta for Windows and Linux. macOS support is planned.
 
-## What beta means here
+## What Beta means here
 
 Nocturne Writer is feature-complete and stable. The beta period is the final stage before general release, focused on real-world validation across different machines, workflows, and writing habits.
 
