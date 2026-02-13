@@ -3,7 +3,7 @@ uuid: 0b4a7d2d-0e00-40ee-8c51-00c3037faf8d
 type: page
 title: Release Notes
 dateCreated: 2026-02-13T05:53:55.316Z
-dateUpdated: 2026-02-13T13:32:38.048Z
+dateUpdated: 2026-02-13T13:36:55.297Z
 ---
 # Release Notes
 
@@ -29,6 +29,6 @@ This page documents changes in each beta build of Nocturne Writer. The most rece
 
 * Added a File Information dialog accessed from the Workspace and Scratchpad context menu to display path and creation/update information.
 
-* Added Display Profiles. A display profile is an aggregate of theme, typography, spacing, UI scaling, editor, and focus mode settings that can be created and selected from the status in the regular editor view and focus menu in focus mode. Display Profiles can be renamed and deleted from User Interface settings. 
+* Added Display Profiles. A display profile is an aggregate of theme, typography, spacing, UI scaling, editor, and focus mode settings that can be created and selected from the status bar in the regular editor view and focus menu in focus mode. Display Profiles can be renamed and deleted from User Interface settings. 
 
 * Added three default Display Profiles (which can be modified and/or deleted): Large Print, Deep Focus, and Low Stimulation. 
