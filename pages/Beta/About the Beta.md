@@ -1,56 +1,53 @@
 ---
 uuid: 81583531-cadd-4e76-bcde-3e46756473fa
-type: page
 title: About the Beta
+type: page
 dateCreated: 2026-01-14T06:44:31.698Z
-dateUpdated: 2026-01-14T08:24:28.165Z
+dateUpdated: 2026-02-13T05:33:16.077Z
+nav_order: 5
 ---
-> Please note that documentation is in a draft state. It is being updated, and the latest version of this book can always be found at GitHub at [User Guide at GitHub](https://github.com/liminalfield/nocturne-writer-user-guide).
+# About the Beta
 
-# Nocturne Writer Beta
+Nocturne Writer is currently in beta for Windows and Linux. macOS support is planned.
 
-## 1\. Build Details
+## What beta means here
 
-**Version**: 0.93.0-beta
+Nocturne Writer is feature-complete and stable. The beta period is the final stage before general release, focused on real-world validation across different machines, workflows, and writing habits.
 
-**Build #**: 619
+The purpose of the beta is to confirm that the application performs reliably in environments beyond our own, and to gather feedback from writers using it in practice.
 
-**Build Date**: January 14, 2026
+## What to expect
 
-**Build Expiry**: February 13, 2026
+Nocturne Writer is a local-first, offline application. There is no account to create, no cloud service to connect to, and no data leaves your machine unless you decide to push your content to a Git remote, like GitHub. Your writing is stored as plain Markdown files on your local filesystem, and you retain full ownership of everything you create.
 
+The application works entirely offline. An internet connection is not required at any point.
 
-## 2\. Beta Overview
+## Beta builds
 
-**What this beta is**
+Each beta build is valid for up to 30 days. When a new build is available, you will receive updated download links by email. You do not need to uninstall a previous build before installing a new one. Your files and settings are preserved between updates.
 
-* The beta provides early access to actively developed features of Nocturne Writer.
+For details on what has changed in each build, see the Release Notes.
 
-* It is intended for real-world writing and knowledge work, not synthetic testing.
+## Platforms
 
-* Some functionality may be incomplete, evolving, or subject to change.
+The beta is currently available for:
 
+* **Windows** (x64)
 
-**What this beta is not**
+* **Linux** (x64) — available as AppImage, .deb, and .pacman packages
 
-* It is not a final or stable release.
+macOS support is planned for a future release.
 
-* It is not guaranteed to preserve compatibility between builds.
+## Sharing feedback
 
-* It is not representative of final performance or polish.
+Feedback of any kind is welcome and genuinely useful. This includes bug reports, workflow friction, things that felt confusing, features that didn't behave as expected, or anything you wished worked differently.
 
+You don't need to be technical to share useful feedback. A sentence or two describing what happened and what you expected is often enough.
 
-## 3\. What's New In This Build
+Send feedback to: **beta@nocturne-writer.com**
 
-* This is the first public release, so everything is new :)
+## After the beta
 
+Nocturne Writer will be available as a one-time purchase with a perpetual license; there are no subscriptions.
 
-## 4\. Known Limitations and Open Issues
-
-### Known Limitations
-
-* Git has known issues being used on a synced drive (e.g., OneDrive, Google Drive, DropBox, Sync.com), so any books that use version control should not be created on a synced drive / cloud drive. 
-
-### Open Issues
-
-* None
+All registered beta testers will receive a discount on the full release. Details will be shared before the beta period ends.
