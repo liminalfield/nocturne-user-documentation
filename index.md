@@ -13,4 +13,4 @@ Welcome to the documentation for Nocturne Writer — a local-first, distraction-
 Nocturne Writer is currently in beta for Windows and Linux. macOS support is planned.
 
 [Get Started](pages/Your%20First%20Hour%20with%20Nocturne%20Writer.html){: .btn .btn-primary }
-[About the Beta](pages/About%20the%20Beta.html){: .btn }
+[About the Beta](pages/Beta/About%20the%20Beta.html){: .btn }
