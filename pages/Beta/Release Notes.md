@@ -3,7 +3,7 @@ uuid: 0b4a7d2d-0e00-40ee-8c51-00c3037faf8d
 type: page
 title: Release Notes
 dateCreated: 2026-02-13T05:53:55.316Z
-dateUpdated: 2026-02-14T02:21:55.760Z
+dateUpdated: 2026-02-22T07:53:57.692Z
 ---
 # Release Notes
 
@@ -11,9 +11,20 @@ This page documents changes in each beta build of Nocturne Writer. The most rece
 
 ---
 
+## Version 0.89.0 - February 22, 2026
+
+### Fixes
+
+* Export: fixed line spacing for page exports
+
+* Editor: source formatting consistently applied when pasting HTML and Markdown content
+
+
+---
+
 ## Version 0.87.1 - February 14, 2026
 
-### What's new
+### What's New
 
 * Added a Focus Mode document save indicator that appears when the currently active document is being saved. The indicator remains visible for 3 seconds and then fades out over 1 second. A toggle was added in Focus Mode settings to enable and disable its display.
 
